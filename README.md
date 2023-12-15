@@ -1,34 +1,28 @@
-This Quiz App is a simple, interactive way to engage with a variety of questions on different topics. It's built with ReactJS and is designed to be user-friendly and informative. Perfect for anyone looking to test their knowledge or learn something new!
+# ReactJS Quiz App
 
-Visit the live app: https://brendan-munnelly.github.io/quiz-app
-Features
+Welcome to the ReactJS Quiz App! This web application provides a platform for users to test their knowledge on various topics related to ReactJS.
 
-    Interactive multiple-choice questions
-    Instant feedback on answers
-    Progression thro
+## Demo
 
-git clone https://github.com/[Your-Username]/quiz-app.git
-cd quiz-app
+Check out the live demo: [ReactJS Quiz App](https://jenniferksantos.github.io/quiz-app/)
 
-Install Dependencies
+## Features
 
-Make sure you have Node.js installed on your machine. Then run:
+- Interactive quizzes on different ReactJS topics.
+- Multiple-choice questions with instant feedback.
+- Score tracking for each quiz attempt.
 
-bash
+## Technologies Used
 
-npm install
+- ReactJS
+- HTML
+- CSS
 
-Run the App
+## Getting Started
 
-bash
+To run this app locally, follow these steps:
 
-    npm start
+1. Clone the repository:
 
-    This runs the app in development mode. Open http://localhost:3000 to view it in the browser.
-
-Contributing
-
-Contributions to improve the app are welcome. Before making changes, please open an issue first to discuss what you would like to change.
-License
-
-MIT License (or choose a license suitable for your project)
+   ```bash
+   git clone https://github.com/jenniferksantos/quiz-app.git
